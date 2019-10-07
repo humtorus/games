@@ -14,6 +14,7 @@ public class games {
 		switch(Integer.parseInt(opcio)) {
 		case 1:
 			System.out.println("Soc el Go");
+			System.out.println("A la Xina soc popular");
 			break;
 		case 2:
 			System.out.println("Soc el Chess");
