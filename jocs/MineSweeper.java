@@ -24,7 +24,7 @@ public class ms {
 				System.out.println("Introdueix tamany y:");
 				y=Integer.parseInt(sc.nextLine());
 				if(x>0 && y>0) {
-					System.out.println("Tauler creat");
+					System.out.println("Tauler nou creat");
 				}
 				else {
 					System.out.println("Valors introduits no valids");
