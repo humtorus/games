@@ -37,7 +37,7 @@ public class ms {
 				System.out.println("Mostrant bombes");
 				break;
 			case 4: System.out.println("A reveure");break;
-			case 5: System.out.println("Indiqui la ruta del fitxer: ");break;
+			case 5: System.out.println("Indiqui la ruta del fitxer : ");break;
 			default:System.out.println("Opcio erronea");break;
 			}
 			}while(opcio!=4);
